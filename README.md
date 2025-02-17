@@ -1,1 +1,1 @@
-# Pr-ctica-2-Tablas
+#Practica2Tablas
